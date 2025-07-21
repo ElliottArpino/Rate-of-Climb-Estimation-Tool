@@ -34,7 +34,7 @@ This MATLAB-based tool estimates and visualizes the Rate of Climb (R.O.C.) for a
 
 ## Example Output
 
-![ROC vs Equivalent Airspeed](plots/ROC_vs_EAS.png)
+![ROC vs Equivalent Airspeed](plots/ROC_vs_EA.png)
 
 ## License
 
