@@ -24,8 +24,8 @@ This MATLAB-based tool estimates and visualizes the Rate of Climb (R.O.C.) for a
 
 ## Files
 
-- `ROC_Estimation.m` — Main MATLAB script
-- `plots/` — Output images from script
+- [ROC_Estimation.m](ROC_Estimation.m) — Main MATLAB script
+- [plots/](plots/) — Output plots (Rate of Climb, Hodograph, Time to Climb, etc.)
 - `data/` — Optional folder for storing external references (ISA tables, constants)
 
 ## Dependencies
