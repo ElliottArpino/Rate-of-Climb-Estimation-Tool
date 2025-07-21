@@ -1,6 +1,0 @@
-mkdir plots
-touch plots/.gitkeep
-
-git add plots/.gitkeep
-git commit -m "Add plots folder with placeholder"
-git push
